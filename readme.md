@@ -6,7 +6,7 @@
 ## Команда
 - **Programmer**: Радмир Узянбаев (uzyanbaev)
 - **Developer's Assistant**: Азат Шамсутдинов (ImperorOfDoomsday)
-- **Designer**: Арслан Харрасов (kharrasov)
+- **Designer**: Арслан Харрасов
 - **Sound**: Азат Шамсутдинов (ImperorOfDoomsday)
 - **Creative**: Идель Байдавлетов (baydavletov)
 - **Tester**: Руслан Музафаров
